@@ -1,4 +1,4 @@
-# ovidb
+# OVI DB
 
 Recopilación de datos OVI
 version: 0.1
